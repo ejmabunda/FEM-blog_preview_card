@@ -23,12 +23,11 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshots/desktop-design.png)
-![](./screenshots/mobile-design.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: Coming Soon
+- Solution URL: [Blog preview card](https://www.frontendmentor.io/solutions/blog-preview-card-SnqzTNOAEL)
+- Live Site URL: [Live Site](https://ejmabunda.github.io/FEM-blog_preview_card/)
 
 ## My process
 
