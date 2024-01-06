@@ -5,7 +5,6 @@
   box-sizing: border-box; }
 
 /* Front-end Style Guide */
-/* End of Front-end Style Guide */
 body {
   background-color: #f4d04e;
   font-family: "Figtree", sans-serif;
@@ -70,11 +69,12 @@ a {
   color: #121212; }
 
 .attribution {
+  text-align: center;
   position: absolute;
   bottom: 0;
-  text-align: center;
   padding: 1rem;
-  font-size: 0.9rem; }
+  font-size: 0.9rem;
+  width: 100vw; }
   .attribution a {
     color: gray;
     text-decoration: underline; }
